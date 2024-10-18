@@ -1,0 +1,3 @@
+saya ingin menjalankan servo 360 derajat, 
+lalu fungsi tersebut berjalan ketika di perintah menggunakan cmd dan memunculkan ouput hidup atau mati, 
+disini saya menggunakan rasbian arduino dan servo, bagaimana caranya ? 
